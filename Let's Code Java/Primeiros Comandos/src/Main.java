@@ -31,7 +31,30 @@ public class Main {
         System.out.println(resultado);
 
          boolean fimDeSemana = true;
-         
+         boolean fazendoSol = true;
+         boolean vamosAPraia = fimDeSemana && fazendoSol;
+        System.out.println("Vamos a praia?: " + vamosAPraia);
+
+        // Tabela Verdade
+        // Operador && (AND)
+        // true && true = true
+        // true && false = false
+        // false && true = false
+        // false && false = true
+
+        // Operador || (OR)
+        // true || true = true
+        // true || falso = true
+        // false || true = true
+        // false || false = false
+
+        // Operadores Ternários
+        // ? (IF)
+        // : (ELSE)
+
+        String mensagem = fimDeSemana ? "É fim de Semana." : "Não é fim de semana.";
+        System.out.println(mensagem);
+
 
 
     }

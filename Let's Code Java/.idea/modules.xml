@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Hello World/Hellos World.iml" filepath="$PROJECT_DIR$/Hello World/Hellos World.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Let's Code Java.iml" filepath="$PROJECT_DIR$/.idea/Let's Code Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primeiros Comandos/Primeiros Comandos.iml" filepath="$PROJECT_DIR$/Primeiros Comandos/Primeiros Comandos.iml" />
     </modules>
   </component>
 </project>
