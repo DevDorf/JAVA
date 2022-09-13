@@ -49,13 +49,11 @@ public class Main {
         // false || false = false
 
         // Operadores Ternários
-        // ? (IF)
-        // : (ELSE)
+        // ? (se)
+        // : (senao)
 
         String mensagem = fimDeSemana ? "É fim de Semana." : "Não é fim de semana.";
         System.out.println(mensagem);
-
-
 
     }
 }

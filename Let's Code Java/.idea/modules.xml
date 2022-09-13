@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Estruturas Condicionais/Estruturas Condicionais.iml" filepath="$PROJECT_DIR$/Estruturas Condicionais/Estruturas Condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcoes/Funcoes.iml" filepath="$PROJECT_DIR$/Funcoes/Funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lacos Numericos/Lacos Numericos.iml" filepath="$PROJECT_DIR$/Lacos Numericos/Lacos Numericos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Let's Code Java.iml" filepath="$PROJECT_DIR$/.idea/Let's Code Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Primeiros Comandos/Primeiros Comandos.iml" filepath="$PROJECT_DIR$/Primeiros Comandos/Primeiros Comandos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings e Datas/Strings e Datas.iml" filepath="$PROJECT_DIR$/Strings e Datas/Strings e Datas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vetores/Vetores.iml" filepath="$PROJECT_DIR$/Vetores/Vetores.iml" />
     </modules>
   </component>
 </project>
